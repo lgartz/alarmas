@@ -1,0 +1,25 @@
+.align-right{
+	float:right;
+}
+
+.align-left{
+	float:left;
+}
+
+.login-box{
+	margin: auto;
+	height: 260px;
+}
+
+.login-box-2{
+	margin-top: 70px;
+}
+
+.central{
+	margin: 150px auto;	
+}
+
+.message-error{
+	color: red;
+	display: none;
+}
